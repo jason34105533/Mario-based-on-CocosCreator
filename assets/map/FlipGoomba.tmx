@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="20" tileheight="24" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="Goomba" tilewidth="20" tileheight="24" tilecount="5" columns="5">
+  <image source="../enemies/Goomba.png" width="110" height="26"/>
+ </tileset>
+ <layer id="1" name="圖塊層 1" width="1" height="1">
+  <data encoding="csv">
+2147483649
+</data>
+ </layer>
+</map>
